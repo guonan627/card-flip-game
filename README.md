@@ -33,4 +33,4 @@ If you do not want to download or run any codes, please see my screen shoot belo
   - update on intervals to save RAM and get better performance.
   - still have minor problem on keyBind and removeEventListener.
   
-  `Wenpei Z`
+  `Nan Guo`
